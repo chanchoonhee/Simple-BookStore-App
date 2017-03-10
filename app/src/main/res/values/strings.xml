@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TheOddBookstore</string>
+    <string name="app_fullname">The Odd Bookstore</string>
+    <string name="register"><u>Don\'t have account? Register here</u></string>
+    <string name="copyright">TheOddBookstore® All Rights Reserved</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
